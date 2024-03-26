@@ -1,0 +1,1 @@
+web: gunicorn MinervaAPI.wsgi --log-file -
