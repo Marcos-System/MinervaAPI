@@ -8,8 +8,6 @@ from rest_framework.authentication import TokenAuthentication
 from rest_framework.permissions import IsAuthenticated
 
 
-#token pro web: f8b5205d7034126ab2fef31afe8417e340aa433d
-
 
 #################### PESSOAS ##################
 
